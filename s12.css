@@ -1,0 +1,21 @@
+#stars{
+    position: absolute;
+     width: 150px;
+     height: 100px;
+     margin-top: 3px;
+     margin-left: 2px;
+     background: darkblue;
+     color: white;
+ }
+ #flag{
+     
+     width:380px;
+     height: 200px;
+     border-color: white;
+ }
+ #td_style{
+    background:red; 
+    height:16px;
+
+ }
+ 
